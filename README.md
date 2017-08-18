@@ -4,7 +4,6 @@ npm install
 npm link
 
 ## Usage
-Embed a message into a jpg
 
 ```shell
 Secretimg create
