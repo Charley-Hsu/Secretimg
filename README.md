@@ -1,16 +1,17 @@
 # Secretimg
 Secrets in the picture
-##Introduction
+
+## Introduction
 ```
 You can hide the information in the picture, through the picture as a carrier encrypted transmission.
 ```
-##use
+## Install
 ```
 npm install
 npm link
 ```
 
-## Usage
+## Use
 ```shell
 Secretimg create
           --in=/img.jpg
